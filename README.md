@@ -1,6 +1,6 @@
 # Employee Card Generator
 
-A **React application** to generate downloadable employee profile cards. This project was created as an frontend developer evaluation task.
+A **React application** to generate downloadable employee profile cards. This project was created as an frontend developer evaluation task. Deployed at **https://corporate-card-generator.netlify.app/**
 
 ---
 
@@ -33,7 +33,7 @@ This React application allows users to generate downloadable employee profile ca
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/BlockbusterAndy/corporate_card_generator
    ```
 2. Navigate to the project directory:
    ```bash
